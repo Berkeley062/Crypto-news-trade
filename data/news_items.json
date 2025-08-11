@@ -1,0 +1,35 @@
+[
+  {
+    "title": "Test News Item",
+    "content": "This is a test news item",
+    "source": "test_source",
+    "sentiment": "neutral",
+    "id": 1,
+    "created_at": "2025-08-11T02:27:16.766268",
+    "updated_at": "2025-08-11T02:35:12.961943",
+    "sentiment_score": 0.0,
+    "confidence": 0.1,
+    "mentioned_coins": "[]",
+    "keywords_matched": "[]",
+    "processed": true
+  },
+  {
+    "title": "Bitcoin reaches new all-time high amid institutional adoption",
+    "content": "Bitcoin has surged to unprecedented levels as major corporations announce crypto adoption strategies.",
+    "source": "CryptoNews",
+    "platform": "Mock",
+    "url": "",
+    "published_at": "2025-08-11T02:35:12.962503",
+    "received_at": "2025-08-11T02:35:12.962510",
+    "sentiment": "neutral",
+    "sentiment_score": 0.0,
+    "confidence": 0.0,
+    "mentioned_coins": "[\"BTC\"]",
+    "keywords_matched": "[]",
+    "processed": false,
+    "triggered_trade": false,
+    "id": 2,
+    "created_at": "2025-08-11T02:35:12.962734",
+    "updated_at": "2025-08-11T02:35:12.962739"
+  }
+]
